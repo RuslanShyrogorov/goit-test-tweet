@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://e7.pngegg.com/pngimages/954/328/png-clipart-computer-icons-user-profile-avatar-heroes-head.png"
+  },
+  {
+    "id": 2,
+    "user": "Eva Musk",
+    "tweets": 34,
+    "followers": 786,
+    "avatar": "https://e7.pngegg.com/pngimages/193/660/png-clipart-computer-icons-woman-avatar-avatar-girl-black-hair-logo.png"
+  },
+  {
+    "id": 3,
+    "user": "Helen Musk",
+    "tweets": 456,
+    "followers": 99456,
+    "avatar": "https://e7.pngegg.com/pngimages/439/19/png-clipart-avatar-user-profile-icon-women-wear-frock-face-holidays.png"
+  },
+  {
+    "id": 4,
+    "user": "Bob Murley",
+    "tweets": 876,
+    "followers": 345789,
+    "avatar": "https://e7.pngegg.com/pngimages/178/419/png-clipart-man-illustration-computer-icons-avatar-login-user-avatar-child-web-design.png"
+  },
+  {
+    "id": 22,
+    "user": "Eva Musk",
+    "tweets": 34,
+    "followers": 786,
+    "avatar": "https://e7.pngegg.com/pngimages/193/660/png-clipart-computer-icons-woman-avatar-avatar-girl-black-hair-logo.png"
+  },
+  {
+    "id": 33,
+    "user": "Helen Musk",
+    "tweets": 456,
+    "followers": 99456,
+    "avatar": "https://e7.pngegg.com/pngimages/439/19/png-clipart-avatar-user-profile-icon-women-wear-frock-face-holidays.png"
+  },
+  {
+    "id": 44,
+    "user": "Bob Murley",
+    "tweets": 876,
+    "followers": 345789,
+    "avatar": "https://e7.pngegg.com/pngimages/178/419/png-clipart-man-illustration-computer-icons-avatar-login-user-avatar-child-web-design.png"
+  }
+]
