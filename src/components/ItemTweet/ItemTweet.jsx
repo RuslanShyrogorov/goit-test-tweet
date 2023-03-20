@@ -12,8 +12,8 @@ import {
   Button,
 } from "./ItemTweet.styled";
 
-import logo from "../../images/logo.png";
-import picture from "../../images/picture.png";
+import logo from "images/logo.png";
+import picture from "images/picture.png";
 
 export default function ItemTweet({ user, onClick }) {
   return (

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-import usersData from "../../data/users.json";
+import usersData from "data/users.json";
 
 import ItemTweet from "components/ItemTweet/ItemTweet";
 import { Container, List } from "./ListTweets.styled";

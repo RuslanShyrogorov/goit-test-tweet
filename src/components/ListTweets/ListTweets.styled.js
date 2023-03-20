@@ -8,11 +8,7 @@ export const Container = styled.div`
 
 export const List = styled.ul`
   display: grid;
-  /* grid-template-columns: repeat(3, 1fr); */
   grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-  /* align-self: center;
-  justify-self: center; */
-
   justify-items: center;
   justify-content: space-evenly;
   gap: 30px;
