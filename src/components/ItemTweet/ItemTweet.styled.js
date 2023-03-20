@@ -61,13 +61,13 @@ export const Circle = styled.div`
 
 export const Avatar = styled.img`
   position: absolute;
-  z-index: 1;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 62px;
   height: 62px;
   border-radius: 50%;
+  object-fit: cover;
 `;
 
 export const Text = styled.p`

@@ -15,8 +15,8 @@ export default function ListTweets() {
   }, [users]);
 
   const handleButton = (id) => {
-    setUsers((users) =>
-      users.map((user) => {
+    setUsers((prevUsers) =>
+      prevUsers.map((user) => {
         if (user.id === id) {
           return {
             ...user,
@@ -35,7 +35,6 @@ export default function ListTweets() {
         {users.map((user) => {
           return <ItemTweet key={user.id} user={user} onClick={handleButton} />;
         })}
-        {/* <ItemTweet users={users} onClick={handleButton} /> */}
       </List>
     </Container>
   );

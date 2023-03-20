@@ -23,7 +23,7 @@ export default function ItemTweet({ user, onClick }) {
       <AvatarWrapper>
         <Line />
         <Circle>
-          <Avatar src={user.avatar} alt={user.user} />
+          <Avatar src={user.avatar} alt={user.user} width="62" height="62" />
         </Circle>
       </AvatarWrapper>
       <Text style={{ marginTop: "62px" }}>{user.tweets} tweets</Text>
