@@ -5,8 +5,6 @@ import {
   Logo,
   Picture,
   AvatarWrapper,
-  Line,
-  Circle,
   Avatar,
   Text,
   Button,
@@ -21,10 +19,7 @@ export default function ItemTweet({ user, onClick }) {
       <Logo src={logo} alt="logo" />
       <Picture src={picture} alt="background image" />
       <AvatarWrapper>
-        <Line />
-        <Circle>
-          <Avatar src={user.avatar} alt={user.user} width="62" height="62" />
-        </Circle>
+        <Avatar src={user.avatar} alt={user.user} width="62" height="62" />
       </AvatarWrapper>
       <Text style={{ marginTop: "62px" }}>{user.tweets} tweets</Text>
       <Text style={{ marginTop: "16px" }}>
