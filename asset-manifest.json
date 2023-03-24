@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goit-test-tweet/static/css/main.7ccab715.css",
-    "main.js": "/goit-test-tweet/static/js/main.52f4d43c.js",
+    "main.js": "/goit-test-tweet/static/js/main.c9c83871.js",
     "static/media/picture.png": "/goit-test-tweet/static/media/picture.010ab3c33bc13f300d33.png",
     "index.html": "/goit-test-tweet/index.html",
     "main.7ccab715.css.map": "/goit-test-tweet/static/css/main.7ccab715.css.map",
-    "main.52f4d43c.js.map": "/goit-test-tweet/static/js/main.52f4d43c.js.map"
+    "main.c9c83871.js.map": "/goit-test-tweet/static/js/main.c9c83871.js.map"
   },
   "entrypoints": [
     "static/css/main.7ccab715.css",
-    "static/js/main.52f4d43c.js"
+    "static/js/main.c9c83871.js"
   ]
 }
